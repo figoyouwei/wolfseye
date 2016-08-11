@@ -29,7 +29,7 @@
           </ul>
         </div>
         <div class="col-md-4 col-sm-12 col-xs-12">
-         <h3>Get in touch<br>with us</h3>
+         <h3>Deutsch<br>mit uns</h3>
          <p>
            Mes cuml dia sed in lacus ut eniascet ipsu ingerto aliiqt es site amet eismod ictor uten ligulate ameti dapibu ticdute numtsen lusto dolor ltissim comes cuml dia sed inertio 
          </p>
